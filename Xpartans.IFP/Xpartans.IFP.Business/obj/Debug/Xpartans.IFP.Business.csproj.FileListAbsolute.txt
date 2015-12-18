@@ -1,0 +1,7 @@
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\bin\Debug\Xpartans.IFP.Business.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\bin\Debug\Xpartans.IFP.Business.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\bin\Debug\Xpartans.IFP.Model.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\bin\Debug\Xpartans.IFP.Model.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\obj\Debug\Xpartans.IFP.Business.csprojResolveAssemblyReference.cache
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\obj\Debug\Xpartans.IFP.Business.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Business\obj\Debug\Xpartans.IFP.Business.pdb

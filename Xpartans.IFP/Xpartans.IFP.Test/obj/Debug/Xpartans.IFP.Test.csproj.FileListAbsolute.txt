@@ -1,0 +1,13 @@
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Test.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Test.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\nunit.framework.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Business.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Model.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Business.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Xpartans.IFP.Model.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\nunit.framework.xml
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\obj\Debug\Xpartans.IFP.Test.csprojResolveAssemblyReference.cache
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\obj\Debug\Xpartans.IFP.Test.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\obj\Debug\Xpartans.IFP.Test.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Moq.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Test\bin\Debug\Moq.xml

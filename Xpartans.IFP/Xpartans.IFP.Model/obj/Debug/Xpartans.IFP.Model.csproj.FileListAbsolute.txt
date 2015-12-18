@@ -1,0 +1,5 @@
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Model\bin\Debug\Xpartans.IFP.Model.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Model\bin\Debug\Xpartans.IFP.Model.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Model\obj\Debug\Xpartans.IFP.Model.dll
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Model\obj\Debug\Xpartans.IFP.Model.pdb
+E:\Xpartans\Xpartans.IFP\Xpartans.IFP.Model\obj\Debug\Xpartans.IFP.Model.csprojResolveAssemblyReference.cache
